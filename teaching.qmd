@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## Lectures
+
+-   Introduction to Genomic Studies\
+    *Module: Nature Nurture I; Course: MSc Developmental Psych.* (KCL)
+
+<!-- -->
+
+-   Gene-environment interplay (Theories & research findings in psychology)\
+    *Module: Nature Nurture I; Course: MSc Developmental Psych.* (KCL)
+
+<!-- -->
+
+-   Gene-environment interaction (Genome-wide methods)\
+    *Module: Nature Nurture II; Course: MSc Developmental Psych.* (KCL)

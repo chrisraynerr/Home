@@ -1,0 +1,38 @@
+project:
+  type: website
+website:
+  title: "Chris Rayner"
+  navbar:
+    background: "#7a97d6"
+    foreground: "#50ed0e"
+    search: FALSE
+    left:
+      - icon: c-circle
+      - icon: r-circle-fill
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+      - href: teaching.qmd
+    right:
+      - icon: envelope-fill
+        href: christopher.rayner@kcl.ac.uk
+      - icon: twitter
+        href: https://twitter.com/chrisrayner
+      - icon: github
+        href: https://github.com/chrisraynerr
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=YSNAiQEAAAAJ&hl=en&oi=ao
+  sidebar:
+    style: "docked"
+    logo: Chris_Rayner.jpeg
+  search: FALSE
+  page-navigation: FALSE
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: FALSE
+
+editor: visual
+

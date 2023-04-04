@@ -1,0 +1,27 @@
+---
+title: "Bio"
+---
+
+## Current position
+
+Chris is a postdoctoral research associate working with Dr Tom McAdams at the Social, Genetic & Developmental Psychiatry Centre at the Institute of Psychiatry Psychology & Neuroscience, King's College London. Chris researches on the inter-generational genetic and environmental influences on developmental, psychological and social outcomes.
+
+## Interests
+
+-   Gene-environment interaction
+-   Omics \[!\] (Genomics \| Exposomics \| Phenomics)
+-   Depression \| Anxiety \| Mental health
+-   Development \| Aging \| Longevity
+-   Statistics \| Programming \| R
+-   Philosophy of science
+
+## Education
+
+-   PhD, Genetic Epidemiology (2020)\
+    *King's College London*
+-   MSc, Social, Genetic & Developmental Psychiatry (2017)\
+    *King's College London*
+-   MSc, Genetics of Human Disease (2016)\
+    *University College London*
+-   BSc, Biomedical Sciences (2014)\
+    *Lancaster University*
