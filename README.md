@@ -1,2 +1,2 @@
-# chrisraynerr.github.io
+# Home
 Personal website
